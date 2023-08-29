@@ -1,0 +1,23 @@
+.vid {
+    text-align: center;
+    margin-top: 90px;
+    padding-bottom: 100px;
+} 
+.title {
+    color: rgba(0, 255, 162, 0.651);
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 2px;
+    padding-bottom: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-shadow: aquamarine;
+
+}
+
+.title >p {
+    color: aliceblue;
+}
+body {
+    background-color: rgb(238, 247, 255);
+    background-image: url(./video/New-file\ -\ Copy.gif);
+}
